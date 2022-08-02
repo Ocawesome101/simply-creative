@@ -1,0 +1,13 @@
+name = "Corail Woodcutter Mixel Fix (old model)"
+filename = "Corail Mixel Fix.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d12d6025e1bf40c03d84539d34fa5bca1ec43222"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3629719
+project-id = 574570
