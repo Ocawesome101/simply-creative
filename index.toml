@@ -1,13 +1,27 @@
 hash-format = "sha256"
 
 [[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "b26d47efce87213e0741abba2522a413d673587043f98c47d305f6ec3aac81c8"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "c1971bbf9a1f6767db16e58e316a5e45d9185abf5c1d0d19711c3520a863327c"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "87c77b5ba8830f85270c614d4603ac29cb0b8170b4f6afce4de04bf2e55550f2"
 metafile = true
 
 [[files]]
@@ -31,8 +45,63 @@ hash = "1172eab470e848b1f9e6c436ee8c15ea2fa07cf7947f397ffe23b90f161ba3d4"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "1b9e348f42b212056214d69e75773f3652d16b4334e5e00f9f9a36750d19cb18"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "29a8c509ad04d8489521527d98951826d0c8bcdcc920c7e7d959531a48f500a3"
+metafile = true
+
+[[files]]
+file = "mods/create-cafe.pw.toml"
+hash = "4be19c7d2aeaa249cbe333f79e92f02d4658738746e9779b1eb904246dc56cf7"
+metafile = true
+
+[[files]]
+file = "mods/create-chromatic-return.pw.toml"
+hash = "9a3baf483ace6e254cd1baced5e50d9eb464b727bf579feef9a863d3d8864f1f"
+metafile = true
+
+[[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "99c9c05bcfaf416d6e807b30d0821de667b283e9c43562bdf4ea384121d77a7d"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "315c92e96c0258353b354b2b63c61539688cf643065ec61036f350af4e6b8589"
+metafile = true
+
+[[files]]
+file = "mods/create-plus.pw.toml"
+hash = "4dda685c202c6a617c52eeeffc7cc18a6fff678d17bbaf1563c6ad31a964ed44"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "4408f4667a2200114edd9b5ef70e6f24318e07bc01258a7ef05d5b952fc7570c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "80770ac24587025c5e62946c4daed9671fe2eda021a9dc07ad49fae335ca0098"
+metafile = true
+
+[[files]]
+file = "mods/createarmoredcopperbacktanks.pw.toml"
+hash = "e2caa43335be839ec72855e44b7692c5366a337ade35481f7668542c72919984"
 metafile = true
 
 [[files]]
@@ -46,8 +115,18 @@ hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+metafile = true
+
+[[files]]
+file = "mods/industrialized-create.pw.toml"
+hash = "281ffb316789661d9e433bdfabee9867056f0c835c51399c44ff354632269b6c"
 metafile = true
 
 [[files]]
@@ -56,13 +135,28 @@ hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+file = "mods/jer-integration.pw.toml"
+hash = "b18db74eca477a7f1c5f920250b9429fb89fdd5d36382e34c94fc843697fa8cf"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "1d3198d8fcd7e0d82932afde0e78e6d1c60ec676812e39fad8211b9aea1531c5"
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "7848fc86eb9213041417fecedabf87539a2aa038b46ceee04906e51da040e693"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
@@ -96,6 +190,20 @@ hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
 metafile = true
 
 [[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d.pw.toml"
+hash = "f59c227e0c371d55dd9182c65beaa0324433fbed6633cbc24f31adf35b2526c9"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "d6b7c13004c2e6b415fa984ff94baaa74408ecb08038878aa15cc85a4ab438ce"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Corail+Mixel+Fix.zip"
+hash = "2f4748ad43aee18c090011a5ae5821338532b860a14a2a46e63cca7076e904ab"

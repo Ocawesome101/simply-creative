@@ -1,13 +1,13 @@
-name = "Simple Creations"
+name = "Simply Creative"
 author = "Ocawesome101"
-version = "1.0.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "15605974a07f07f459db4538333fd482ea5ac96023af6858f65ef0b9d4cc2415"
+hash = "1ad450da34a5081a4ac0309d11e128baa656f3a4bc62c0f40e1a9b2438fcc887"
 
 [versions]
-forge = "40.1.0"
+forge = "40.1.68"
 minecraft = "1.18.2"

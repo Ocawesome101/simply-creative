@@ -1,0 +1,13 @@
+name = "CreateArmoredCopperBacktanks"
+filename = "createab-1.18.2_v0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70c55c27fc3b2ba8dd28b5fbd7542618116a24a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3877157
+project-id = 639615
