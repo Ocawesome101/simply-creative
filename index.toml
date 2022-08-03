@@ -125,6 +125,21 @@ hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5a08532ac9b50717161e618c3c5490d43c281dbe6bde13b5b76a03a58415d89d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
+metafile = true
+
+[[files]]
 file = "mods/industrialized-create.pw.toml"
 hash = "281ffb316789661d9e433bdfabee9867056f0c835c51399c44ff354632269b6c"
 metafile = true
@@ -137,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/jer-integration.pw.toml"
 hash = "b18db74eca477a7f1c5f920250b9429fb89fdd5d36382e34c94fc843697fa8cf"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "835c82536479104f6e7395cd94985a591c90e1ee528e3439d6d069540fd363ce"
 metafile = true
 
 [[files]]
