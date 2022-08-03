@@ -140,6 +140,11 @@ hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "7638c6fcf4af1039a9c99717ce8fb029ba7e7bec473994565e743d26da44a516"
+metafile = true
+
+[[files]]
 file = "mods/industrialized-create.pw.toml"
 hash = "281ffb316789661d9e433bdfabee9867056f0c835c51399c44ff354632269b6c"
 metafile = true
