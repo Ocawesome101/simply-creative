@@ -258,3 +258,7 @@ metafile = true
 file = "resourcepacks/corail-woodcutter-mixel-fix.pw.toml"
 hash = "11cac3e5b7bd8cfb91af9cbc4bb64003371ff07a4ba896b4f314feb153228f67"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "61019075b39ec947c3d5c12f1207e4157285e52e5de71d0830ebf9b32037a0cc"
