@@ -11,12 +11,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c1971bbf9a1f6767db16e58e316a5e45d9185abf5c1d0d19711c3520a863327c"
+hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
 metafile = true
 
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
 metafile = true
 
 [[files]]
@@ -26,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "87c77b5ba8830f85270c614d4603ac29cb0b8170b4f6afce4de04bf2e55550f2"
+hash = "1a729949299364629635ee98760e3ec70bf75991fe96a773587bf4543f360db5"
 metafile = true
 
 [[files]]
@@ -66,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "4be19c7d2aeaa249cbe333f79e92f02d4658738746e9779b1eb904246dc56cf7"
+hash = "3b4612bd94d8f4e214d852c5c38a2c4b83cf11f583b38ed2b905db5daeaf2abb"
 metafile = true
 
 [[files]]
@@ -86,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "315c92e96c0258353b354b2b63c61539688cf643065ec61036f350af4e6b8589"
+hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
 metafile = true
 
 [[files]]
@@ -101,12 +106,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "80770ac24587025c5e62946c4daed9671fe2eda021a9dc07ad49fae335ca0098"
+hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
 metafile = true
 
 [[files]]
@@ -116,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
-hash = "ebc7fe70140c268917e096a5aefcdd4981378eef19e1db5a6381ae6e75486aff"
+hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
 metafile = true
 
 [[files]]
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
 
 [[files]]
@@ -171,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
+hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
@@ -181,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "835c82536479104f6e7395cd94985a591c90e1ee528e3439d6d069540fd363ce"
+hash = "f2491624aa308147b5c78cdbbe9e850430f2479a0bd0529a6b0261d2a082a45c"
 metafile = true
 
 [[files]]
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c01d6af1ea694de8ccaa0ee97ca9dc554266f8d4596822d989a2ae849695c8aa"
+hash = "6ac415953312600491dd249d0d9e55e4e8c77f81af7920e2112240044954ae4d"
 metafile = true
 
 [[files]]
@@ -236,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
+hash = "c3baee20bb1992ec994bb026fa27a53086eb68a7516e06db59aa95de07dfff4e"
 metafile = true
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
-hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
+hash = "8fdad4120ab5b751d18c37a218b6e358bd532c52b2b0c76446e52e7a3d9e7815"
 metafile = true
 
 [[files]]
