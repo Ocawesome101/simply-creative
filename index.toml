@@ -51,27 +51,22 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
+hash = "8885728c751b6e20f3fc4a9394723ce5250a2fa1fe4078ad83cc27b441e20ba3"
 metafile = true
 
 [[files]]
 file = "mods/corail-woodcutter.pw.toml"
-hash = "1172eab470e848b1f9e6c436ee8c15ea2fa07cf7947f397ffe23b90f161ba3d4"
+hash = "5608b003cd385f3dc2f4b0eb0d5fe16c7f94c8335447397bb7f44292947bf558"
 metafile = true
 
 [[files]]
 file = "mods/create-alloyed.pw.toml"
-hash = "1b9e348f42b212056214d69e75773f3652d16b4334e5e00f9f9a36750d19cb18"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "29a8c509ad04d8489521527d98951826d0c8bcdcc920c7e7d959531a48f500a3"
+hash = "14d58649e9b2addd8ae226cffcf05cac8b102d50f6a6e86af73ac01ae8ff949a"
 metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "3b4612bd94d8f4e214d852c5c38a2c4b83cf11f583b38ed2b905db5daeaf2abb"
+hash = "82691ac16ce1e0a2f9165024b96b63eeabd0ffdc56646ccc4e623d269db78167"
 metafile = true
 
 [[files]]
@@ -91,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
+hash = "d4f26000a9053d0ac8f76d779a0b52124c9b472faced12fc48a53346359900dc"
 metafile = true
 
 [[files]]
@@ -116,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/createarmoredcopperbacktanks.pw.toml"
-hash = "e2caa43335be839ec72855e44b7692c5366a337ade35481f7668542c72919984"
+hash = "aec8b633b615f4f3379568cc3245655366cebdfbefc6e6b2bb6b291d8f0d1988"
 metafile = true
 
 [[files]]
@@ -126,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
-hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
+hash = "5000760b9aaeb78fc25a4747c357806e756fbf8771ece8ea75afc213bcba7559"
 metafile = true
 
 [[files]]
@@ -181,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/jer-integration.pw.toml"
-hash = "b18db74eca477a7f1c5f920250b9429fb89fdd5d36382e34c94fc843697fa8cf"
+hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
 
 [[files]]
@@ -221,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6ac415953312600491dd249d0d9e55e4e8c77f81af7920e2112240044954ae4d"
+hash = "33e9bd62c65278c2ae1ec5a2ce83242ac518ce6fa55458176298382eba15a769"
 metafile = true
 
 [[files]]
@@ -241,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c3baee20bb1992ec994bb026fa27a53086eb68a7516e06db59aa95de07dfff4e"
+hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
 metafile = true
 
 [[files]]
