@@ -40,6 +40,11 @@ hash = "5f236f234d031f221d12e077ed27da06adf2808d8538eb98277729e55715ee50"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "a5bbdec16f922fe86f718dc1d93e625c0d2197163a4dc592ae8e21c8a873a505"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "d4f26000a9053d0ac8f76d779a0b52124c9b472faced12fc48a53346359900dc"
+metafile = true
+
+[[files]]
+file = "mods/create-extended-flywheels.pw.toml"
+hash = "e3530711751707e24f23cc681f6d117d484537dad17af6f55f155df2abe054bb"
 metafile = true
 
 [[files]]
@@ -190,6 +200,16 @@ hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-computercraft.pw.toml"
+hash = "0d37b4b8d95d1ab2b296a9e962b7754587bedee2e92a58ab565c779f5db8933a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "d4d449c649554f0224bd954d1327e88c89d52f54293359614eee54b2de6a8418"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "7848fc86eb9213041417fecedabf87539a2aa038b46ceee04906e51da040e693"
 metafile = true
@@ -207,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "7615d1d69859aadc88bfd81bf58eb8acdb1b64362e4118255dbfd875f9f0fbd1"
 metafile = true
 
 [[files]]
