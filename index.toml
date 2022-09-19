@@ -285,5 +285,13 @@ hash = "11cac3e5b7bd8cfb91af9cbc4bb64003371ff07a4ba896b4f314feb153228f67"
 metafile = true
 
 [[files]]
+file = "server_scripts/script.js"
+hash = "6b69a238f87571cad22e02769162a4578385135ea4c29cd118348addee788e43"
+
+[[files]]
 file = "servers.dat"
 hash = "61019075b39ec947c3d5c12f1207e4157285e52e5de71d0830ebf9b32037a0cc"
+
+[[files]]
+file = "startup_scripts/script.js"
+hash = "c3575ca23b0182bf07bf8aadd8bd085fb3f0b8e2468643de377aa55acfada9cd"
