@@ -6,11 +6,11 @@ hash = "b26d47efce87213e0741abba2522a413d673587043f98c47d305f6ec3aac81c8"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "6b69a238f87571cad22e02769162a4578385135ea4c29cd118348addee788e43"
+hash = "d207c043dae1a9822fce026a1ec8996c6b8e8dcc1cada8781335b980040fa56e"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "c3575ca23b0182bf07bf8aadd8bd085fb3f0b8e2468643de377aa55acfada9cd"
+hash = "009b78f6e3952850e393e21c6e8b7714a47acfd840915aa67dc76dd3f1c3982c"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
