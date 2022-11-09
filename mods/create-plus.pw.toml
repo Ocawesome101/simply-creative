@@ -1,13 +1,13 @@
 name = "Create Plus"
-filename = "createplus-1.18.2_v0.5.1.jar"
+filename = "createplus-1.18.2_v0.5.1a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7a7e831ecd395634aaa6b2ccd2ce7ee190142f9b"
+hash = "58617757f65694204af48a372c1bb1ea50242923"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3884557
+file-id = 3967615
 project-id = 377835
