@@ -162,18 +162,15 @@ function getStackModule(nbt) {
 }
 
 function getTerminalModule(nbt) {
-	// reading tag lists seems to be royally broken
-	// the following should work but it doesn't
-
 	// 8 - string (type of list elements) 
-	// let display = nbt.getTagList("display", 8)
-	// let jsDisplay = []
-	// for (var i = 0; i < display.tagCount(); i++)
-	// 	jsDisplay[i] = display.getStringTagAt(i)
+	let display = nbt.getList("display", 8)
+	let jsDisplay = []
+	for (var i = 0; i < display.size(); i++)
+		jsDisplay[i] = display.getString(i)
 
 	return {
 		output: nbt.getString("output"),
-		// display: jsDisplay
+		display: jsDisplay
 	}
 }
 
@@ -285,6 +282,7 @@ global.getModule = (container, dir, args) => {
 		let module = getModuleNbt(container, side)
 		let moduleData = getModule[name](module)
 		moduleData.name = name.replace("tis3d:", "")
+		moduleData.facing = module.getByte("facing")
 		moduleData.success = true
 		moduleData.reason = ""
 		return moduleData
@@ -302,6 +300,23 @@ global.getPos = (container, dir, args) => {
 		y: container.y,
 		z: container.z,
 		success: true,
+		reason: ""
+	}
+}
+
+global.getPipes = (container, dir, args) => {
+	let pipes = container.entityData.get("pipes")
+	let pipesJs = []
+	for (var i = 0; i < pipes.length; i++) {
+		pipesJs.push({
+			readState: pipes[i].getByte("readState"),
+			writeState: pipes[i].getByte("writeState"),
+			value: pipes[i].getByte("value"),
+		})
+	}
+	return {
+		state: pipesJs,
+		succes: true,
 		reason: ""
 	}
 }
