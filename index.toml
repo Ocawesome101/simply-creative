@@ -28,11 +28,6 @@ hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.pw.toml"
-hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
-metafile = true
-
-[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "29f7a1cfbc20432885d12c36245b503103857c068b27865d804cbd06d9b386f9"
 metafile = true
