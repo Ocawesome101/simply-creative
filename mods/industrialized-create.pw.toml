@@ -1,13 +1,13 @@
 name = "Industrialized Create"
-filename = "industrializedcreate1.18.2_1.2.1.jar"
+filename = "industrializedcreate1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "52edf09f7e45bd9d7366cd071291b88ab7758b49"
+hash = "e0b7d3d3a0516af2b05693b239a7f1c4500451a4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3797605
+file-id = 3787704
 project-id = 622710
