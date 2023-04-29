@@ -1,6 +1,7 @@
 // priority: 0
 
-ServerEvents.recipes(event => {
+//ServerEvents.recipes(event => {
+onEvent('recipes', event => {
   // Propeller Bearing
   event.shaped(
     Item.of('vs_clockwork:propellor_bearing', 1),

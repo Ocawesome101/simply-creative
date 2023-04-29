@@ -10,7 +10,7 @@ hash = "a6364f41d806aa0251d3635b8f4e7ab0bd05e6c188cee249986d72598ed6e054"
 
 [[files]]
 file = "kubejs/server_scripts/clockwork-recipes.js"
-hash = "4a4aee241311e3c1261857f95449a86f4c939009e696e577e317f72439eb0088"
+hash = "c719b5390d36e5288452843fb8ba200c2a9f3c03f499f559202a298fe371cc02"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -18,7 +18,7 @@ hash = "d207c043dae1a9822fce026a1ec8996c6b8e8dcc1cada8781335b980040fa56e"
 
 [[files]]
 file = "kubejs/startup_scripts/clockwork-item-physics-core.js"
-hash = "700987688167b27668edbf2918258003d91ada348473229b523a80828735602a"
+hash = "4b46edf1bbe3c2f7ee70d61570b464a1547e17cadbc979e2ebdaa1c79c7c43a3"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
