@@ -78,11 +78,6 @@ hash = "d57c4d6b85d34fbfe76cc50e5aa4a2f2d8e821a6b4b55a982a5388efdf954c31"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "d3b24a39c349c618a17d5f21c88d4bc1e80884938bea620ed1c5fd6ccda65700"
-metafile = true
-
-[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "6b2a795f3d93c64970c4f59b9845f27fc43dee4fef9f581ab8cbf3bc892afab2"
 metafile = true
