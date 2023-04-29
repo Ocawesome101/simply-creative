@@ -186,14 +186,27 @@ onEvent('recipes', event => {
     }
   )
 
-  // FLUIDS
+  // FLUIDS ... are done as buckets for now :/
   // vanilla frosting
-  event.mixing(
-    [Fluid.of('vs_clockwork:vanilla_frosting', 250)], [
+  event.shapeless(
+    Item.of('vs_clockwork:vanilla_frosting_bucket'), [
     'minecraft:sugar',
-    Fluid.of('minecraft:milk', 250)
+    'minecraft:milk_bucket'
   ])
   // chocolate frosting
-  //event.
+  event.shapeless(
+    Item.of('vs_clockwork:chocolate_frosting_bucket'), [
+    'minecraft:sugar',
+    'minecraft:milk_bucket',
+    'create:bar_of_chocolate'
+  ])
   // "strawberry" frosting
+  event.shapeless(
+    Item.of('vs_clockwork:vanilla_frosting_bucket'), [
+    'minecraft:sugar',
+    'minecraft:milk_bucket',
+    // get it? straw + berry = "strawberry"? ...xd
+    'minecraft:sweet_berries',
+    'farmersdelight:straw'
+  ])
 })
