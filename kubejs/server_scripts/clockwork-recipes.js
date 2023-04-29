@@ -121,7 +121,7 @@ onEvent('recipes', event => {
   )
 
   // Balloon Casing
-  event.deploying(
+  event.recipes.createDeploying(
     Item.of('vs_clockwork:balloon_casing', 1),
     [ 'minecraft:wool', 'minecraft:gold_ingot' ]
   )
@@ -186,27 +186,48 @@ onEvent('recipes', event => {
     }
   )
 
-  // FLUIDS ... are done as buckets for now :/
+  // FLUIDS ... are done as buckets for now
   // vanilla frosting
-  event.shapeless(
+  /*event.shapeless(
     Item.of('vs_clockwork:vanilla_frosting_bucket'), [
     'minecraft:sugar',
     'minecraft:milk_bucket'
-  ])
+  ])*/
+  event.recipes.createMixing(
+    Fluid.of('vs_clockwork:vanilla_frosting', 250), [
+      Fluid.of('milk', 250),
+      Item.of('sugar', 2)
+    ]
+  )
   // chocolate frosting
-  event.shapeless(
+  /*event.shapeless(
     Item.of('vs_clockwork:chocolate_frosting_bucket'), [
     'minecraft:sugar',
     'minecraft:milk_bucket',
     'create:bar_of_chocolate'
-  ])
+  ])*/
+  event.recipes.createMixing(
+    Fluid.of('vs_clockwork:vanilla_frosting', 250), [
+      Fluid.of('minecraft:milk', 250),
+      Item.of('minecraft:sugar', 2)
+      Item.of('create:bar_of_chocolate', 2)
+    ]
+  )
   // "strawberry" frosting
-  event.shapeless(
+  event.recipes.createMixing(
+    Fluid.of('vs_clockwork:vanilla_frosting', 250), [
+      Fluid.of('minecraft:milk', 250),
+      Item.of('minecraft:sugar', 2),
+      Item.of('farmersdelight:straw', 1)
+      Item.of('minecraft:sweet_berries', 1)
+    ]
+  )
+  /*event.shapeless(
     Item.of('vs_clockwork:vanilla_frosting_bucket'), [
     'minecraft:sugar',
     'minecraft:milk_bucket',
     // get it? straw + berry = "strawberry"? ...xd
     'minecraft:sweet_berries',
     'farmersdelight:straw'
-  ])
+  ])*/
 })
