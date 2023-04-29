@@ -10,7 +10,7 @@ hash = "a6364f41d806aa0251d3635b8f4e7ab0bd05e6c188cee249986d72598ed6e054"
 
 [[files]]
 file = "kubejs/server_scripts/clockwork-recipes.js"
-hash = "c719b5390d36e5288452843fb8ba200c2a9f3c03f499f559202a298fe371cc02"
+hash = "b908b2ef3f0dfcd586ccf56a2ecdd5df86f8960828a87689d2da138c595a7d0f"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"

@@ -111,13 +111,13 @@ onEvent('recipes', event => {
   // Wing (from Flap)
   event.shapeless(
     Item.of('vs_clockwork:wing', 1),
-    [ 'vs:clockwork:flap' ]
+    [ 'vs_clockwork:flap' ]
   )
 
   // Flap (from Wing)
   event.shapeless(
     Item.of('vs_clockwork:flap', 1),
-    [ 'vs:clockwork:wing' ]
+    [ 'vs_clockwork:wing' ]
   )
 
   // Balloon Casing
