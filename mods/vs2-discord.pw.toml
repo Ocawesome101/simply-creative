@@ -1,5 +1,5 @@
 name = "VS2 Beta (from discord)"
-filename = "vs2-beta-discord.jar"
+filename = "vs2-beta-2.1.0-discord.jar"
 side = "both"
 
 [download]
