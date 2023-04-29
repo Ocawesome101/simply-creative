@@ -123,7 +123,7 @@ onEvent('recipes', event => {
   // Balloon Casing
   event.recipes.createDeploying(
     Item.of('vs_clockwork:balloon_casing', 1),
-    [ 'minecraft:wool', 'minecraft:gold_ingot' ]
+    [ '#minecraft:wool', 'minecraft:gold_ingot' ]
   )
 
   // Combustion Engine
@@ -169,7 +169,7 @@ onEvent('recipes', event => {
   // Bluu Guu
   event.shapeless(
     Item.of('vs_clockwork:bluuguu', 1),
-    [ 'minecraft:slimeball', 'minecraft:lapis_lazuli' ]
+    [ 'minecraft:slime_ball', 'minecraft:lapis_lazuli' ]
   )
 
   // Bluper Glue
