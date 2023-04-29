@@ -37,7 +37,7 @@ onEvent('recipes', event => {
 
   // Reaction Wheel
   event.shaped(
-    Item.of('vs_clockwork:reaction_wheel', 1),
+    Item.of('vs_clockwork:reactionwheel', 1),
     [
       'cCc',
       'CsC',
@@ -121,7 +121,7 @@ onEvent('recipes', event => {
   )
 
   // Balloon Casing
-  event.createDeploying(
+  event.deploying(
     Item.of('vs_clockwork:balloon_casing', 1),
     [ 'minecraft:wool', 'minecraft:gold_ingot' ]
   )
@@ -188,7 +188,8 @@ onEvent('recipes', event => {
 
   // FLUIDS
   // vanilla frosting
-  event.mixing(Fluid.of('vs_clockwork:vanilla_frosting', 250), [
+  event.mixing(
+    [Fluid.of('vs_clockwork:vanilla_frosting', 250)], [
     'minecraft:sugar',
     Fluid.of('minecraft:milk', 250)
   ])
