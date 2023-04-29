@@ -126,5 +126,73 @@ onEvent('recipes', event => {
     [ 'minecraft:wool', 'minecraft:gold_ingot' ]
   )
 
-  // Combustion Engine omitted
+  // Combustion Engine
+  event.shaped(
+    Item.of('vs_clockwork:combustion_engine', 1),
+    [ 'P', 'C' ],
+    {
+      P: 'create:precision_mechanism',
+      C: 'create:copper_casing'
+    }
+  )
+
+  // Physics Core (custom item)
+  event.shaped(
+    Item.of('kubejs:physics_core', 1),
+    [
+      'ed',
+      'Eo'
+    ],
+    {
+      e: 'create:experience_nugget',
+      d: 'minecraft:diamond',
+      E: 'minecraft:ender_pearl',
+      o: 'create:powdered_obsidian'
+    }
+  )
+
+  // Physics Infuser
+  event.shaped(
+    Item.of('vs_clockwork:physics_infuser', 1),
+    [
+      'bSb',
+      'SCS',
+      'bSb'
+    ],
+    {
+      b: 'create:brass_ingot',
+      S: 'create:sturdy_sheet',
+      C: 'kubejs:physics_core'
+    }
+  )
+
+  // Bluu Guu
+  event.shapeless(
+    Item.of('vs_clockwork:bluuguu', 1),
+    [ 'minecraft:slimeball', 'minecraft:lapis_lazuli' ]
+  )
+
+  // Bluper Glue
+  event.shaped(
+    Item.of('vs_clockwork:bluperglue', 1),
+    [
+      'gB',
+      'bg'
+    ],
+    {
+      g: 'vs_clockwork:bluuguu',
+      B: 'create:brass_sheet',
+      b: 'create:brass_nugget'
+    }
+  )
+
+  // FLUIDS
+  // vanilla frosting
+  event.mixing(Fluid.of('vs_clockwork:vanilla_frosting', 250), [
+    'minecraft:sugar',
+    Fluid.of('minecraft:milk', 250)
+  ])
+  // chocolate frosting
+  //event.
+  // "strawberry" frosting
 })
