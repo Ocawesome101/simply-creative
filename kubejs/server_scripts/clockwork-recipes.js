@@ -207,7 +207,7 @@ onEvent('recipes', event => {
     'create:bar_of_chocolate'
   ])*/
   event.recipes.createMixing(
-    Fluid.of('vs_clockwork:vanilla_frosting', 250), [
+    Fluid.of('vs_clockwork:chocolate_frosting', 250), [
       Fluid.of('minecraft:milk', 250),
       Item.of('minecraft:sugar', 2),
       Item.of('create:bar_of_chocolate', 2)
@@ -215,7 +215,7 @@ onEvent('recipes', event => {
   )
   // "strawberry" frosting
   event.recipes.createMixing(
-    Fluid.of('vs_clockwork:vanilla_frosting', 250), [
+    Fluid.of('vs_clockwork:strawberry_frosting', 250), [
       Fluid.of('minecraft:milk', 250),
       Item.of('minecraft:sugar', 2),
       Item.of('farmersdelight:straw', 1),
