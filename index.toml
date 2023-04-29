@@ -48,6 +48,11 @@ hash = "90a98f89c7fd522c158b2ad7ac46a9370e4173fbc434f3e13d69dc9a3f7a243e"
 metafile = true
 
 [[files]]
+file = "mods/clockwork-discord.pw.toml"
+hash = "3dd967d31bddaa015021cd2a3b0c9ec87378dac9758727e9601c9d071d2abc0a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
 metafile = true
@@ -124,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "f68960c9fbf060475113eca1bbe8158d92530f75bfcc25399331d947560aa1c0"
+hash = "73480c4ed3366df73f39f9efa709002fb7ef011db6be9abe09bf9260b76d8116"
 metafile = true
 
 [[files]]
@@ -269,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5afd2bbb038204601b83adbb9ed9408be06fc3c6d88f334e7631e59c2dd91252"
+hash = "9b562d1d3820b7d51b4553307965ec4fc37a8948beb2df5c65a924e2df602089"
 metafile = true
 
 [[files]]
@@ -285,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "d1cd772de9f9035f7539ad5b1d144095b78869068ba116e2cf482c5b4b3652a6"
+metafile = true
+
+[[files]]
+file = "mods/vs2-discord.pw.toml"
+hash = "36212b742358224f815b5b7924ecd7975aa59c4c5daf20661d1980367b94d4db"
 metafile = true
 
 [[files]]
