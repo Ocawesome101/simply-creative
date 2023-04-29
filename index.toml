@@ -5,8 +5,20 @@ file = "defaultconfigs/create-server.toml"
 hash = "b26d47efce87213e0741abba2522a413d673587043f98c47d305f6ec3aac81c8"
 
 [[files]]
+file = "kubejs/assets/clockwork/textures/item/physics_core.png"
+hash = "a6364f41d806aa0251d3635b8f4e7ab0bd05e6c188cee249986d72598ed6e054"
+
+[[files]]
+file = "kubejs/server_scripts/clockwork-recipes.js"
+hash = "4a4aee241311e3c1261857f95449a86f4c939009e696e577e317f72439eb0088"
+
+[[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "d207c043dae1a9822fce026a1ec8996c6b8e8dcc1cada8781335b980040fa56e"
+
+[[files]]
+file = "kubejs/startup_scripts/clockwork-item-physics-core.js"
+hash = "700987688167b27668edbf2918258003d91ada348473229b523a80828735602a"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
