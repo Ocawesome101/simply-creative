@@ -123,7 +123,7 @@ onEvent('recipes', event => {
   // Balloon Casing
   event.recipes.createDeploying(
     Item.of('vs_clockwork:balloon_casing', 1),
-    [ '#minecraft:wool', 'minecraft:gold_ingot' ]
+    [ '#minecraft:wool', 'minecraft:gold_nugget' ]
   )
 
   // Combustion Engine

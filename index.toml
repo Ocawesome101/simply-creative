@@ -9,8 +9,12 @@ file = "kubejs/assets/clockwork/textures/item/physics_core.png"
 hash = "a6364f41d806aa0251d3635b8f4e7ab0bd05e6c188cee249986d72598ed6e054"
 
 [[files]]
+file = "kubejs/client_scripts/clockwork-ponderings.js"
+hash = "9b8f1d825ff53d1beaa2064d6d5ed3143f0143767ab6360f9a64deb867532c3e"
+
+[[files]]
 file = "kubejs/server_scripts/clockwork-recipes.js"
-hash = "c2f87fffa457a7811b2d8923557ebaece055e7d55a3a99c96da53b71eed06f8b"
+hash = "a78bf69249f0a869f0f015eaffbd7e35729dcd3cda6f5f5088e740c5f2c0247b"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -221,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
@@ -252,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "83d863d98ba4bf3dd8fee258d1514027e3f879e363c43f128d26cbe18b0d4344"
 metafile = true
 
 [[files]]
