@@ -1,9 +1,0 @@
-name = "VS2 Beta (from discord)"
-filename = "vs2-beta-2.1.0-discord.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/1100497495450210384/1100610630379130970/valkyrienskies-118-forge-2.1.0-beta.10c53fb53ba5.jar"
-
-hash-format = "sha256"
-hash = "ae144cc711fcd735a13fa49542a4c4e93c952fb578d45638f755eb9815a4cef8"

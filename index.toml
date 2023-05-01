@@ -319,6 +319,11 @@ hash = "d1cd772de9f9035f7539ad5b1d144095b78869068ba116e2cf482c5b4b3652a6"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "4a60d367ca04410e74f666b45093e36eef4723ffd0ea22a7b938d64f94de2372"
+metafile = true
+
+[[files]]
 file = "mods/vs2-discord.pw.toml"
 hash = "02dcc737c8ab18499e6954db9c2fad3af509ddb8402dce95b8f3f0b2fbc79cff"
 metafile = true
