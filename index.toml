@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/clockwork-discord.pw.toml"
-hash = "3dd967d31bddaa015021cd2a3b0c9ec87378dac9758727e9601c9d071d2abc0a"
+hash = "36c93a97270973a38d1143b2398877d68945cd1e5e107423f12539e322380676"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs2-discord.pw.toml"
-hash = "02dcc737c8ab18499e6954db9c2fad3af509ddb8402dce95b8f3f0b2fbc79cff"
+hash = "127f927ab23a6ba41346afa08ff7b95e4b9679e98eeac03eaa33e6fc2c700ca3"
 metafile = true
 
 [[files]]
