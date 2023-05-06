@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4bd5faaed950ea0b84dc2c3665541367b411a6544c4f8d94a98ecb79b21cf4b4"
+hash = "994d1b0d56bc0ed46051bc1c2d000097aa89eb79b9ff4033177434e802eaa1da"
 metafile = true
 
 [[files]]
@@ -115,12 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "b8102f01a17c38d4fdd36f1278ec0cdfafdb7f76601a64a3f2889a78792c7654"
+hash = "cfc1c30591c37dc6997800a0261e924d6991b9c60f1e4d892e4ffaf0f5716b01"
 metafile = true
 
 [[files]]
 file = "mods/create-extended-flywheels.pw.toml"
-hash = "e668e80c4a03876c60f2ff11ef0e37424c2bebb3863af6b536271685b1a50258"
+hash = "863f10a9025bd638b9bcb80d84ff309d47c0938d14dc1d45796105da4c778359"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "514c0735e7e465faa2d3f1dd58c53467452d3fec2d8eac50307f8c97c8087619"
+hash = "17b0f6294579c5fa83bd8c13c57296f257d6545890abe1f80cc73ac787bb50a8"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrialized-create.pw.toml"
-hash = "944d29aa5a0c15b555803cf87d19cb0297459d4d10b603d2aacb3efa16cfa1e0"
+hash = "281ffb316789661d9e433bdfabee9867056f0c835c51399c44ff354632269b6c"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "bab0b74d714a13993eaf4d45db033b3944e3f532aefca7d3888828efe123d639"
+hash = "975e85f3e92dbbfb303ebe364e7542fe32554bbbf9cf1068da9549ca88222bec"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
