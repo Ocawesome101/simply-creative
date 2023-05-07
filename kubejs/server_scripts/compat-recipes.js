@@ -34,5 +34,4 @@ onEvent("recipes", event => {
       Item.of('minecraft:white_dye', 1),
       Fluid.of('minecraft:water', 1000)
     ]).heated()
-  )
 })
