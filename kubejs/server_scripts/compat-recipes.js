@@ -26,5 +26,4 @@ onEvent("recipes", event => {
       Item.of('kubejs:ragus', 1),
       Fluid.of('minecraft:water', 1000)
     ]).heated()
-  )
 })
