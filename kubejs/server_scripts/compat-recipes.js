@@ -15,9 +15,15 @@ onEvent("recipes", event => {
   // TODO: is there a more consistent way to remove this? this feels fragile
   event.remove({id: 'create:potion_mixing_vanilla_5'})
 
+  // recipe for raguS
+  event.shapeless(
+    Item.of('kubejs:ragus', 1),
+    [ 'minecraft:sugar' ]
+  )
+
   event.recipes.createMixing(
     Fluid.of('minecraft:mundane_potion', 1000), [
-      Item.of('kubejs:rugas', 1),
+      Item.of('kubejs:ragus', 1),
       Fluid.of('minecraft:water', 1000)
     ]).heated()
   )
