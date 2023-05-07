@@ -13,6 +13,12 @@ onEvent('recipes', event => {
     }
   )
 
+  // Physics Bearing
+  event.shapeless(
+    Item.of('vs_clockwork:physics_bearing', 1),
+    [ 'vs_clockwork:propellor_bearing', 'kubejs:physics_core' ]
+  )
+
   // Flap Bearing
   event.shaped(
     Item.of('vs_clockwork:flap_bearing', 1),

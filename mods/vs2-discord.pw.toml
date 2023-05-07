@@ -3,7 +3,7 @@ filename = "vs2-beta-2.1.0-discord.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1100497495450210384/1104155346047606915/valkyrienskies-118-forge-2.1.0-beta.12c3076eba24.jar"
+url = "https://cdn.discordapp.com/attachments/1100497495450210384/1104846577916457041/valkyrienskies-118-forge-2.1.0-beta.125a40781d5d.jar"
 
 hash-format = "sha256"
-hash = "9ab0ebbd6a644598539fc88e5a37adbd2a0f7d1a5e9b4b5f083a8495918d8809"
+hash = "82376b0a19d408001cf3816e3bda8072697638c5eb95c28bba818ab6fa5304fc"

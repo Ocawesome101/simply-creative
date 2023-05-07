@@ -18,7 +18,7 @@ hash = "9b8f1d825ff53d1beaa2064d6d5ed3143f0143767ab6360f9a64deb867532c3e"
 
 [[files]]
 file = "kubejs/server_scripts/clockwork-recipes.js"
-hash = "a78bf69249f0a869f0f015eaffbd7e35729dcd3cda6f5f5088e740c5f2c0247b"
+hash = "933af053dc49b553ae3260a42460b72d51ca345bd732dde9d5eda5ae65197e4a"
 
 [[files]]
 file = "kubejs/server_scripts/compat-recipes.js"
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/clockwork-discord.pw.toml"
-hash = "36c93a97270973a38d1143b2398877d68945cd1e5e107423f12539e322380676"
+hash = "763331f590a00679acf4d73748cd480b60d4ea2664f5bd437fbed5738799e7bc"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs2-discord.pw.toml"
-hash = "127f927ab23a6ba41346afa08ff7b95e4b9679e98eeac03eaa33e6fc2c700ca3"
+hash = "3f213bb41568febc9d98b8c3ea34fc840a7255d77b77a0fc70899857aa167db3"
 metafile = true
 
 [[files]]

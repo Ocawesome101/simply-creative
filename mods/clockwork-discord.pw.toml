@@ -3,7 +3,7 @@ filename = "clockwork-prealpha-patch-1.2-discord.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1100497495450210384/1104155347066822688/Clockwork_Pre-Alpha_Patch_1.3_Forge.jar"
+url = "https://cdn.discordapp.com/attachments/1100497495450210384/1104846896348012565/Clockwork_Pre-Alpha_Patch_1.3b_FORGE.jar"
 
 hash-format = "sha256"
-hash = "1d5452dc01884474bcbbff980b3d5a858e30cc502edb0037d1756066b7c804bd"
+hash = "de2c13e8c83d69ff7ff9d500f104522b9ad2c16f3847227c7075b49661911b18"
