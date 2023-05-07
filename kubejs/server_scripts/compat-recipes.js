@@ -24,4 +24,15 @@ onEvent("recipes", event => {
     Fluid.of('createcafe:melted_sugar', 250), [
       Item.of('kubejs:ragus', 1)
     ]).heated()
+
+  // conflict: mundane potion / zinc nugget
+  event.remove({id: 'createchromaticreturn:zinc_recipe'})
+
+  // zinc is frequently used in white dye, so add that to the recipe
+  event.recipes.createMixing(
+    Item.of('create:zinc_ingot', 1), [
+      Item.of('minecraft:white_dye', 1),
+      Fluid.of('minecraft:water', 1000)
+    ]).heated()
+  )
 })
