@@ -22,7 +22,7 @@ hash = "a78bf69249f0a869f0f015eaffbd7e35729dcd3cda6f5f5088e740c5f2c0247b"
 
 [[files]]
 file = "kubejs/server_scripts/compat-recipes.js"
-hash = "1845c38b6e473dbaafe0c99829a5fc82bf4bca7a8639dba443aaa454c8b2b02f"
+hash = "a8b8fb5c9ffc4d4f78f6dee87921c1b4189e3e8d8a0f8aa3dfcb1266e1a4da0b"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
