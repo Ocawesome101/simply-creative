@@ -5,7 +5,7 @@ file = "defaultconfigs/create-server.toml"
 hash = "b26d47efce87213e0741abba2522a413d673587043f98c47d305f6ec3aac81c8"
 
 [[files]]
-file = "kubejs/assets/clockwork/textures/item/physics_core.png"
+file = "kubejs/assets/simply_creative/textures/item/physics_core.png"
 hash = "a6364f41d806aa0251d3635b8f4e7ab0bd05e6c188cee249986d72598ed6e054"
 
 [[files]]
@@ -18,15 +18,15 @@ hash = "a78bf69249f0a869f0f015eaffbd7e35729dcd3cda6f5f5088e740c5f2c0247b"
 
 [[files]]
 file = "kubejs/server_scripts/compat-recipes.js"
-hash = "1effe00fd305658fd6860ccf19ce6069dda0ebcf0f6b36ca432bcf08eef62733"
+hash = "16221012de6833c821595075620f98b8d279e5d7032c270d2cb900f90222af6d"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "d207c043dae1a9822fce026a1ec8996c6b8e8dcc1cada8781335b980040fa56e"
 
 [[files]]
-file = "kubejs/startup_scripts/clockwork-item-physics-core.js"
-hash = "4b46edf1bbe3c2f7ee70d61570b464a1547e17cadbc979e2ebdaa1c79c7c43a3"
+file = "kubejs/startup_scripts/custom-items.js"
+hash = "ead07896ffdd983d237a27d66fd4c1b0c589b1cff7326e92ed925ae790341a6a"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
