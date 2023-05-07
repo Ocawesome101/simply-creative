@@ -30,7 +30,7 @@ onEvent("recipes", event => {
 
   // zinc is frequently used in white dye, so add that to the recipe
   event.recipes.createMixing(
-    Item.of('create:zinc_ingot', 1), [
+    Item.of('create:zinc_nugget', 1), [
       Item.of('minecraft:white_dye', 1),
       Fluid.of('minecraft:water', 1000)
     ]).heated()
