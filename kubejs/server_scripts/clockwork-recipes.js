@@ -15,7 +15,7 @@ onEvent('recipes', event => {
 
   // Physics Bearing
   event.shapeless(
-    Item.of('vs_clockwork:physics_bearing', 1),
+    Item.of('vs_clockwork:phys_bearing', 1),
     [ 'vs_clockwork:propellor_bearing', 'kubejs:physics_core' ]
   )
 

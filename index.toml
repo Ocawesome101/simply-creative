@@ -18,7 +18,7 @@ hash = "9b8f1d825ff53d1beaa2064d6d5ed3143f0143767ab6360f9a64deb867532c3e"
 
 [[files]]
 file = "kubejs/server_scripts/clockwork-recipes.js"
-hash = "933af053dc49b553ae3260a42460b72d51ca345bd732dde9d5eda5ae65197e4a"
+hash = "f8f78dbc6e4ad9cecf21deb3b4cc3ad1a3fb55a56ef77fd42076484233fcb2ae"
 
 [[files]]
 file = "kubejs/server_scripts/compat-recipes.js"
