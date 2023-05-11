@@ -1,9 +1,9 @@
 name = "Clockwork Pre-Alpha (from Discord)"
-filename = "clockwork-prealpha-patch-1.2-discord.jar"
+filename = "clockwork-prealpha-patch-1.3c-discord.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1100497495450210384/1104846896348012565/Clockwork_Pre-Alpha_Patch_1.3b_FORGE.jar"
+url = "https://cdn.discordapp.com/attachments/1100497495450210384/1104928877282869390/Clockwork_Pre-Alpha_Patch_1.3c_FORGE.jar"
 
 hash-format = "sha256"
-hash = "de2c13e8c83d69ff7ff9d500f104522b9ad2c16f3847227c7075b49661911b18"
+hash = "3912f1c65d772ec979f6fa3d7846c6e76a7c0244f537ccc737966a5551671407"

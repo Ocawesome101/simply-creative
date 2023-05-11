@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/clockwork-discord.pw.toml"
-hash = "763331f590a00679acf4d73748cd480b60d4ea2664f5bd437fbed5738799e7bc"
+hash = "a03db559d7bf5549e11c9daf12ad0986af3659b4cf0963117d5fc5171963a556"
 metafile = true
 
 [[files]]
