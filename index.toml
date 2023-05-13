@@ -42,6 +42,11 @@ hash = "0186e7f4f8fd2796123df62c8e6ac869b189df6beb7a601f9a5c825f0464292e"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "994d1b0d56bc0ed46051bc1c2d000097aa89eb79b9ff4033177434e802eaa1da"
 metafile = true

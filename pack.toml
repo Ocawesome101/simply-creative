@@ -1,12 +1,12 @@
 name = "Simply Creative"
 author = "Ocawesome101"
-version = "0.6.0-pre2"
+version = "0.6.0-pre3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dba9f5ce83e38f3b963e8867b763cafb6d4840ebf717dd99c8e020a421d947b0"
+hash = "7f5c59f9d863a978ab9dbb8d244600990f8e276c7a1400ab5817fe150a1c9363"
 
 [versions]
 forge = "40.2.2"
